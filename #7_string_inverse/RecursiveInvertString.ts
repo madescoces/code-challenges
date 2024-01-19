@@ -1,4 +1,4 @@
-const inverseMeRecursive = (
+const InverseMeRecursive = (
   str: string,
   start: number = 0,
   end: number = str.length - 1
@@ -10,7 +10,7 @@ const inverseMeRecursive = (
   const strArray: string[] = str.split('');
   [strArray[start], strArray[end]] = [strArray[end], strArray[start]]
 
-  return inverseMeRecursive(strArray.join(''), start + 1, end - 1)
+  return InverseMeRecursive(strArray.join(''), start + 1, end - 1)
 }
 
-console.log('Recursive inverse function:', inverseMeRecursive('holas mundo'))
+console.log('Recursive inverse function:', InverseMeRecursive('holas mundo'))
