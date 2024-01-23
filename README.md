@@ -13,5 +13,6 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 5. Challenge 5: [Title of Challenge 5](Link to Challenge 5)
 6. Challenge 6: [Title of Challenge 6](Link to Challenge 6)
 7. Challenge 7: [Title of Challenge 7](Link to Challenge 7)
+8. Challenge 8: [Title of Challenge 7](Link to Challenge 7)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.
