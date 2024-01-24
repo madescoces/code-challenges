@@ -14,7 +14,7 @@
 
 const operators = { '{': '}', '[': ']', '(': ')' }
 
-const IsEqualExpression = (expression: string): boolean => {
+const IsBalancedExpression = (expression: string): boolean => {
   const stack = []
   
   for (const char of expression) {
@@ -32,4 +32,4 @@ const IsEqualExpression = (expression: string): boolean => {
 }
 
 const expression = '{[()]}'
-console.log(`The expression ${expression} is ${IsEqualExpression(expression) ? 'equal' : 'not equal'}`)
+console.log(`The expression ${expression} is ${IsBalancedExpression(expression) ? 'equal' : 'not equal'}`)
