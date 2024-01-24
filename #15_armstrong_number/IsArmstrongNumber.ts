@@ -11,7 +11,7 @@
 
 import { GetDigits } from '../helpers/Digit'
 
-const IsAmstrongNumber = (number: number): boolean => {
+const IsArmstrongNumber = (number: number): boolean => {
   // This can be done with toString() method, but is more challenging to implement a math function that returns a array of numbers
   const digits = GetDigits(number)
   const pow = digits.length
@@ -21,5 +21,5 @@ const IsAmstrongNumber = (number: number): boolean => {
 const armstrong = 153
 const notArmstrong = 334422
 
-console.log(`The number ${armstrong} is${IsAmstrongNumber(armstrong) ? ' ' : ' not '}a Armstrong number.`)
-console.log(`The number ${notArmstrong} is${IsAmstrongNumber(notArmstrong) ? ' ' : ' not '}a Armstrong number.`)
+console.log(`The number ${armstrong} is${IsArmstrongNumber(armstrong) ? ' ' : ' not '}a Armstrong number.`)
+console.log(`The number ${notArmstrong} is${IsArmstrongNumber(notArmstrong) ? ' ' : ' not '}a Armstrong number.`)
