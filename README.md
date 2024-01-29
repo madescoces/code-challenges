@@ -28,5 +28,6 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 20. [To Miliseconds](https://github.com/madescoces/code-challenges/tree/main/%2320_to_miliseconds)
 21. [Sum With Delay](https://github.com/madescoces/code-challenges/tree/main/%2321_sum_with_delay)
 22. [Txt Calculator](https://github.com/madescoces/code-challenges/tree/main/%2322_calculator_txt)
+23. [Set Operations](https://github.com/madescoces/code-challenges/tree/main/%2323_set_operations)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.
