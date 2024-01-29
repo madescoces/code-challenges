@@ -23,6 +23,10 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 15. [Is It a Armstrong Number?](https://github.com/madescoces/code-challenges/tree/main/%2315_armstrong_number)
 16. [Days Between to Dates](https://github.com/madescoces/code-challenges/tree/main/%2316_days_between)
 17. [TitleCase](https://github.com/madescoces/code-challenges/tree/main/%2317_title_case)
-17. [Obstacle Race](https://github.com/madescoces/code-challenges/tree/main/%2318_obstacle_race)
+18. [Obstacle Race](https://github.com/madescoces/code-challenges/tree/main/%2318_obstacle_race)
+19. [Tic Tac Toe](https://github.com/madescoces/code-challenges/tree/main/%2319_tic-tac-toe)
+20. [To Miliseconds](https://github.com/madescoces/code-challenges/tree/main/%2320_to_miliseconds)
+21. [Sum With Delay](https://github.com/madescoces/code-challenges/tree/main/%2321_sum_with_delay)
+22. [Txt Calculator](https://github.com/madescoces/code-challenges/tree/main/%2322_calculator_txt)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.
