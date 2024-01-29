@@ -18,16 +18,16 @@ import path = require('path')
 sharp(path.join(__dirname, 'girl.jpg'))
   .metadata()
   .then(function (metadata) {
-    const image_mcd = mcd(metadata.width, metadata.height)
+    const image_mcd = mcd(metadata.width!!, metadata.height!!)
     console.log('Width: ' + metadata.width + ' Height: ' + metadata.height)
     //console.log('Máximo común divisor: ', image_mcd)
     //console.log('Width Factors: ', FactorMe(metadata.width))
     //console.log('Height Factors: ', FactorMe(metadata.height))
-    const aspectRatio = `${metadata.width / image_mcd}:${
-      metadata.height / image_mcd
+    const aspectRatio = `${metadata.width!! / image_mcd}:${
+      metadata.height!! / image_mcd
     }`
     console.log(`Image aspect ratio: ${aspectRatio}`)
-    console.log(`Decimal aspect ratio: ${(metadata.height / metadata.width).toFixed(4)} `)
+    console.log(`Decimal aspect ratio: ${(metadata.height!! / metadata.width!!).toFixed(4)} `)
   })
 
 // Calculamos el máximo común divisor (MCD)
