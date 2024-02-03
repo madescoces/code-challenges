@@ -32,5 +32,6 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 24. [Mcd Mcm](https://github.com/madescoces/code-challenges/tree/main/%2324_mcd_mcm)
 25. [Iterate Methods](https://github.com/madescoces/code-challenges/tree/main/%2325_iterate)
 26. [Rock Paper Scissors](https://github.com/madescoces/code-challenges/tree/main/%2326_rock_paper_scissors)
+27. [Orthogonal Vectors](https://github.com/madescoces/code-challenges/tree/main/%2327_orthogonal)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.
