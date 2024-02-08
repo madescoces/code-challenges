@@ -37,5 +37,6 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 29. [Quicksort](https://github.com/madescoces/code-challenges/tree/main/%2329_sort_array)
 30. [Framed Words](https://github.com/madescoces/code-challenges/tree/main/%2330_framed_words)
 31. [Framed Words](https://github.com/madescoces/code-challenges/tree/main/%2331_leap_years)
+32. [Framed Words](https://github.com/madescoces/code-challenges/tree/main/%2332_second_biggest)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.

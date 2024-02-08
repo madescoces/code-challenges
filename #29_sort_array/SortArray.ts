@@ -36,7 +36,7 @@ const sortedArray = (array: number[], order: OrderType = 'asc'): number[] => {
 }
 
 // Random number list
-const numberList = randomListOfNumbers(1, 100)
+const numberList = randomListOfNumbers(30, 1, 100)
 
 // Unordered list
 console.log(numberList)
