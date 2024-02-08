@@ -35,5 +35,6 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 27. [Orthogonal Vectors](https://github.com/madescoces/code-challenges/tree/main/%2327_orthogonal)
 28. [Vending Machine](https://github.com/madescoces/code-challenges/tree/main/%2328_vending_machine)
 29. [Quicksort](https://github.com/madescoces/code-challenges/tree/main/%2329_sort_array)
+30. [Framed Words](https://github.com/madescoces/code-challenges/tree/main/%2330_framed_words)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.
