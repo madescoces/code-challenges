@@ -9,7 +9,7 @@
  * Si no conoces qué es un número de Armstrong, debes buscar información al respecto.
  */
 
-import { GetDigits } from '../helpers/Digit'
+import { GetDigits } from '../helpers/digit'
 
 const IsArmstrongNumber = (number: number): boolean => {
   // This can be done with toString() method, but is more challenging to implement a math function that returns a array of numbers

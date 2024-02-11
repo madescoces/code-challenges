@@ -8,7 +8,7 @@
  * Enunciado: Dado un listado de números, encuentra el SEGUNDO más grande.
  */
 
-import { randomListOfNumbers } from '../helpers/RandomNumber'
+import { randomListOfNumbers } from '../helpers/number'
 
 const numbers = randomListOfNumbers(12, 1, 10)
 

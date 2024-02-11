@@ -11,7 +11,7 @@
  * - No se pueden utilizar funciones propias del lenguaje que lo resuelvan automáticamente.
  */
 
-import { randomListOfNumbers } from '../helpers/RandomNumber'
+import { randomListOfNumbers } from '../helpers/number'
 
 type OrderType = 'asc' | 'desc'
 

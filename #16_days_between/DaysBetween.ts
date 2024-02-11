@@ -12,7 +12,7 @@
  * - Si una de las dos cadenas de texto no representa una fecha correcta se lanzará una excepción.
 */
 
-import { IsValidDate } from '../helpers/Date'
+import { IsValidDate } from '../helpers/date'
 
 const MILISECONS_DAY = 86400000
 
