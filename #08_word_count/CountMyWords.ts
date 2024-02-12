@@ -47,7 +47,7 @@ const CountMyWords = (words: string, clean: boolean = false): Map<string, number
     if (!wordsMap.has(word)) {
       wordsMap.set(word, 1)
     } else {
-      wordsMap.set(word, wordsMap.get(word) + 1)
+      wordsMap.set(word, wordsMap.get(word)!! + 1)
     }
   })
 
