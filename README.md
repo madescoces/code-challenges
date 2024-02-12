@@ -41,5 +41,6 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 33. [Chinese Zodiac](https://github.com/madescoces/code-challenges/tree/main/%2333_chinese_zodiac)
 34. [Lost Numbers](https://github.com/madescoces/code-challenges/tree/main/%2334_lost_numbers)
 35. [Pokemon Batle](https://github.com/madescoces/code-challenges/tree/main/%2335_pokemon_battle)
+36. [The Rings of Power](https://github.com/madescoces/code-challenges/tree/main/%2336_rings_of_power)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.
