@@ -40,5 +40,6 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 32. [The second biggest](https://github.com/madescoces/code-challenges/tree/main/%2332_second_biggest)
 33. [Chinese Zodiac](https://github.com/madescoces/code-challenges/tree/main/%2333_chinese_zodiac)
 34. [Lost Numbers](https://github.com/madescoces/code-challenges/tree/main/%2334_lost_numbers)
+35. [Pokemon Batle](https://github.com/madescoces/code-challenges/tree/main/%2335_pokemon_battle)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.
