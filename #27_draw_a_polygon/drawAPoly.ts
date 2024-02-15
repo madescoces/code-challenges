@@ -62,6 +62,6 @@ const drawPolygon = (polygonType: PolygonType, length: number) => {
 drawPolygon('SQUARE', 5)
 drawPolygon('TRIANGLE', 5)
 drawPolygon('PYRAMID', 4)
-drawPolygon('DIAMOND', 4)
+drawPolygon('DIAMOND', 5)
 drawPolygon('DIAMOND', 0)
 drawPolygon('DIAMOND', 2.1)
