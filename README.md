@@ -46,5 +46,6 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 38. [Zelda's Legend](https://github.com/madescoces/code-challenges/tree/main/%2338_zelda_legend)
 39. [Binary to decimal](https://github.com/madescoces/code-challenges/tree/main/%2339_binary_to_decimal)
 40. [Quicksort](https://github.com/madescoces/code-challenges/tree/main/%2340_quicksort)
+41. [Pascal Triangle](https://github.com/madescoces/code-challenges/tree/main/%2341_pascal_triangle)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.

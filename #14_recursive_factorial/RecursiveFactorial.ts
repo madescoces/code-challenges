@@ -8,12 +8,14 @@
  * Enunciado: Escribe una función que calcule y retorne el factorial de un número dado de forma recursiva.
 */
 
-const RecursiveFactorial = (n: number): number | null => {
-  return n < 0 ? null : n === 0 || n === 1 ? 1 : RecursiveFactorial(n - 1) * n
+const recursiveFactorial = (n: number): number | null => {
+  return n < 0 ? null : n === 0 || n === 1 ? 1 : recursiveFactorial(n - 1)!! * n
 }
 
 const number = 5
-console.log(`The factorial of ${number} is ${RecursiveFactorial(number)}`)
+console.log(`The factorial of ${number} is ${recursiveFactorial(number)}`)
 
 const number2 = -1
-console.log(`The factorial of ${number2} is ${RecursiveFactorial(number2)}`)
+console.log(`The factorial of ${number2} is ${recursiveFactorial(number2)}`)
+
+export {}

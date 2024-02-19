@@ -14,3 +14,7 @@ export const randomListOfNumbers = (amount: number, min: number = 0, max: number
 export const isAsc = (arr: number[]): boolean => !arr.some((e, index) => index < arr.length - 1 && e > arr[index + 1])
 
 export const isDesc = (arr: number[]): boolean => !arr.some((e, index) => index !== 0 && e > arr[index - 1])
+
+export const recursiveFactorial = (n: number): number | null => {
+  return n < 0 ? null : n === 0 || n === 1 ? 1 : recursiveFactorial(n - 1)!! * n
+}
