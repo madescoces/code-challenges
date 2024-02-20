@@ -47,5 +47,6 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 39. [Binary to decimal](https://github.com/madescoces/code-challenges/tree/main/%2339_binary_to_decimal)
 40. [Quicksort](https://github.com/madescoces/code-challenges/tree/main/%2340_quicksort)
 41. [Pascal Triangle](https://github.com/madescoces/code-challenges/tree/main/%2341_pascal_triangle)
+42. [Ohm Calculator](https://github.com/madescoces/code-challenges/tree/main/%2342_ohm_calculator)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.
