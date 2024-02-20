@@ -48,5 +48,6 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 40. [Quicksort](https://github.com/madescoces/code-challenges/tree/main/%2340_quicksort)
 41. [Pascal Triangle](https://github.com/madescoces/code-challenges/tree/main/%2341_pascal_triangle)
 42. [Ohm Calculator](https://github.com/madescoces/code-challenges/tree/main/%2342_ohm_calculator)
+43. [Temp Conversor](https://github.com/madescoces/code-challenges/tree/main/%2343_temp_conversor)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.
