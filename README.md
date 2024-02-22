@@ -49,6 +49,7 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 41. [Pascal Triangle](https://github.com/madescoces/code-challenges/tree/main/%2341_pascal_triangle)
 42. [Ohm Calculator](https://github.com/madescoces/code-challenges/tree/main/%2342_ohm_calculator)
 43. [Temp Conversor](https://github.com/madescoces/code-challenges/tree/main/%2343_temp_conversor)
-43. [Trick or Treat](https://github.com/madescoces/code-challenges/tree/main/%2344_trick_or_treat)
+44. [Trick or Treat](https://github.com/madescoces/code-challenges/tree/main/%2344_trick_or_treat)
+45. [Boomerangs](https://github.com/madescoces/code-challenges/tree/main/%2345_boomerangs)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.
