@@ -52,5 +52,6 @@ Acknowledgment: Special thanks to Brais Moure for his valuable content on [Moure
 44. [Trick or Treat](https://github.com/madescoces/code-challenges/tree/main/%2344_trick_or_treat)
 45. [Boomerangs](https://github.com/madescoces/code-challenges/tree/main/%2345_boomerangs)
 46. [Water Unites Calculator](https://github.com/madescoces/code-challenges/tree/main/%2346_calculate_water_units)
+47. [Where is the Robot](https://github.com/madescoces/code-challenges/tree/main/%2347_where_is_the_robot)
 
 Feel free to check out the provided links for each challenge to explore the details and solutions.

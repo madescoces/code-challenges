@@ -18,7 +18,7 @@
  * Ej: 1 Peloso pierde contra 1 Orco, 2 Pelosos empatan contra 1 Orco, 3 Pelosos ganan a 1 Orco.
  */
 
-type Pair<T, U> = [T, U]
+import { Pair } from "../helpers/customTypes"
 
 enum GoodArmy {
   HARFOOT = 1,
