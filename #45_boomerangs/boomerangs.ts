@@ -36,3 +36,5 @@ const toEvaluate = [
 toEvaluate.forEach((arr) => {
   console.log(`${JSON.stringify(arr)} has ${boomerangs(arr)} boomerangs inside.`)
 })
+
+export {}
