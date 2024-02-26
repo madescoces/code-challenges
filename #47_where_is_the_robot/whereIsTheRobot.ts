@@ -31,7 +31,7 @@ const robot = (steps: number[]): Pair<number, number> => {
   }
 
   let currentDirection = directions.TOP
-  
+
   for (let i = 0; i < steps.length; i++) {
     if (i % 2 === 0) {
       position = [position[0], position[1] + steps[i] * currentDirection]
@@ -47,6 +47,8 @@ const robot = (steps: number[]): Pair<number, number> => {
 
 const toEvaluate = [[10, 5, -2], [0, 0, 0], [], [-10, -5, 2], [-10, -5, 2, 4, -8]]
 
-toEvaluate.forEach((steps) => {console.log(`The robot ends at: ${JSON.stringify(robot(steps))}`)})
+toEvaluate.forEach((steps) => {
+  console.log(`The robot ends at: ${JSON.stringify(robot(steps))}`)
+})
 
 export {}
